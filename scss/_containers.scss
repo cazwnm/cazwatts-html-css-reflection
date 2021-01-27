@@ -1,0 +1,125 @@
+
+.banner_image {
+    height: 567px;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    text-align: center;
+    background-image: url("../img/phone.jpg")
+}
+
+#card_container {
+    padding: 50px 15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: .8125rem;
+    line-height: 1.375rem;
+    margin-bottom: 13px;
+    font-weight: 400;
+}
+
+.service_card {
+    display: flex;
+    flex-direction: column;
+    font-family: Poppins, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 30px;
+    box-shadow: 0 3px 35px rgba(0,0,0,.1);
+    text-align: center;
+    margin: 30px 0px 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: .8125rem;
+    position: relative;
+    padding-bottom: 17px;
+    font-weight: 400;
+    margin-bottom: 13px;
+    line-height: 1.375rem;
+   }
+
+   .background_info {
+       background-color: #333645;
+       color: #ffffff;
+       font-family: Poppins, sans-serif;
+       text-align: left;
+       margin: 30px 0px 0px;
+       padding-left: 15px;
+       padding-right: 15px;
+       padding-top: 15px;
+       padding-bottom: 40px;
+       width: 100%;
+       letter-spacing: .4px;
+   }
+
+   .blogsection {
+    padding: 50px, 0px;
+   }
+
+   .blog_blocks {
+    font-family: Poppins, sans-serif;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 30px;
+    box-shadow: 0 3px 35px rgba(0,0,0,.1);
+    text-align: center;
+    margin: 30px 0px 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: .8125rem;
+    position: relative;
+    padding-bottom: 30px;
+    font-weight: 400;
+    margin-bottom: 13px;
+    line-height: 1.375rem;
+   }
+
+   .img1{
+    width: 100%;
+    margin: auto;
+   }
+
+   .img2{
+       width: 100%;
+       margin: auto;
+   }
+
+   .img3{
+    width: 100%;
+    margin: auto;
+}
+
+.footerh4 {
+text-transform: uppercase;
+}
+
+   .contact_info{
+       padding: 47px 0px 43px;
+       display: block;
+       margin-left: -15px;
+       letter-spacing: .4px;
+       font-family: poppins, sans-serif;
+       font-size: 13px;
+       line-height: 1.1;
+       }
+   
+.pagecontainer{
+width: 300px;
+margin: auto;
+
+}
+
+.footercontainer {
+    width: 300px;
+    margin: auto;
+    }
+
+h3{
+font-size: 20px, poppins, sans-serif;
+color: #666666;
+font-weight: 600;
+}
